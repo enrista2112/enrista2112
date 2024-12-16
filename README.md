@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @enrista2112
+- 🌱 I’m currently learning computer graphics.
+- 📫 How to reach me: emi2112@barnard.edu.
 - 😄 Pronouns: she/her
 
 ## Latest Work
