@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @enrista2112
 - 🌱 I’m currently learning computer graphics.
-- 📫 How to reach me: emi2112@barnard.edu.
+- 📫 How to reach me: emi2112@alum.barnard.edu.
 - 😄 Pronouns: she/her
 
 ## Career Goals
